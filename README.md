@@ -1,5 +1,5 @@
 ## StreamingKit
-可以解析包括本地和网络的音频数据 使用 Audio Unit来处理
+可以解析包括本地和网络的音频数据 使用 Audio Unit来处理 功能强大
 
 StreamingKit (formally Audjustable) is an audio playback and streaming library for iOS and Mac OSX.  StreamingKit uses CoreAudio to decompress and playback audio (using hardware or software codecs) whilst providing a clean and simple object-oriented API.
 
